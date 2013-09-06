@@ -3,7 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>createMarkedFile</key>
-	<false/>
+	<true/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>༄༅།།སོ་སོ་ཐར་པའི་མདོའི་འགྲེལ་པ་རིན་ཆེན་འབྱུང་གནས་ཞེས་བྱ་བ་བཞུགས་སོ།།.md</string>
+		</array>
+	</array>
 	<key>userIconName</key>
 	<string>Star</string>
 </dict>
